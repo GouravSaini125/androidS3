@@ -1,0 +1,17 @@
+{
+  "Version": "1.0",
+  "IdentityManager": {
+    "Default": {}
+  },
+  "PinpointTargeting": {
+    "Default": {
+      "Region": "ap-south-1"
+    }
+  },
+  "S3TransferUtility": {
+    "Default": {
+      "Bucket": "open.myhoggy.com",
+      "Region": "ap-south-1"
+    }
+  }
+}
